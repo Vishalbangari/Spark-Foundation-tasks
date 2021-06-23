@@ -62,3 +62,7 @@ I have used both numerical and textual data for this.
 (ii) Sentiment analysis is performed on the News data.
 
 (iii) An analysis is performed by merging both the data to predict if the Close price of the stock will increase or decrease.
+
+**Task 8 : Timeline Analysis : Covid-19**
+
+The above task gives us the complete analysis of the covid-19 outbreak and Finding out How many countries were affected by Covid-19 the Percentage of confirmed cases per country which are of top in the list and ecovered Cases v/s Death Cases in the Top 5 countries.
